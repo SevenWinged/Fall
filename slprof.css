@@ -1,6 +1,6 @@
 .slpcov {
   width: auto;
-  margin: -10px;
+  margin: -272px -50px -40px -50px;
   background-color: #fafafa;
   padding-bottom: 10px;
   font-family: 'Work Sans', arial, sans-serif;
@@ -15,58 +15,58 @@
   height: 463px;
   background-image: url("https://img.nickpic.host/5CqkkD.png");
   position: relative;
-  left: 42px;
+  left: 15px;
   z-index: 266;
 }
 
 .slptime {
-  width: 359px;
+  width: 400px;
   height: 230px;
   position: relative;
   background-color: rgb(60, 176, 199);
-  border-radius: 21px 0px 0px 0px;
+  border-radius: 68px 0px 0px 0px;
   border-top: 4px solid #3c3c3c;
   border-bottom: 5px solid #3c3c3c;
   z-index: 265;
-  top: -456px;
-  right: -162px;
+  top: -474px;
+  right: -150px;
   box-shadow: 7px 0px 8px -9px #5d6165;
   color: #0a0a0a;
 }
 
 .slptdate {
-	width: 229px;
 	position: relative;
 	margin-bottom: 3px;
 	display: block;
 	line-height:14px;
+	font-family: Tahoma;
 }
 
 .slpscroll {
-	width: 385px;
+	width: 455px;
 	background-image: url("https://img.nickpic.host/5CqLs5.png");
 	margin: -453px auto auto auto;
 	padding: 20px;
 	box-shadow: 0px 4px 3px 2px #cdcdcb, 0px -1px 1px 1px #bfbcb0;
 	border-radius: 2px 2px 5px 5px;
+	color: #3e3e39;
 }
 .slpside {
 	width: 200px;
 	height: 314px;
 	background-image: url("https://img.nickpic.host/5CAaxP.png");
 	position: relative;
-    top: -20px;
-    right: -205px;
-	z-index: 264;
+	top: -38px;
+	right: -275px;
 }
 
 .slpsmallbox {
-	width: 208px;
-	height: 123px;
+	width: 275px;
+	height: 108px;
 	position: relative;
-    top: -116px;
+    top: -174px;
 }
 
 .slpbigbox {
-	margin: -150px auto auto;
+	margin: -210px auto auto;
 }
