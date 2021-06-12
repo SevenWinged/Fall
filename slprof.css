@@ -40,12 +40,13 @@
 	display: block;
 	line-height: 14px;
 	font-family: Tahoma;
+	text-align: left;
 }
 
 .slpscroll {
 	width: 455px;
 	background-image: url("https://img.nickpic.host/5CqLs5.png");
-	margin: -453px auto auto auto;
+	margin: -470px auto auto auto;
 	padding: 20px;
 	box-shadow: 0px 4px 3px 2px #cdcdcb, 0px -1px 1px 1px #bfbcb0;
 	border-radius: 2px 2px 5px 5px;
@@ -56,7 +57,7 @@
 	height: 314px;
 	background-image: url("https://img.nickpic.host/5CAaxP.png");
 	position: relative;
-	top: -38px;
+	top: -20px;
 	right: -275px;
 }
 
@@ -64,9 +65,9 @@
 	width: 275px;
 	height: 108px;
 	position: relative;
-	top: -174px;
+    	top: -174px;
 }
 
 .slpbigbox {
-	margin: -210px auto auto;
+	margin: -154px auto auto;
 }
