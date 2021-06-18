@@ -1,0 +1,68 @@
+.slpshell {
+	width: 430px;
+	background-color: #f4f4f4;
+	margin: auto;
+	padding: 10px;
+	position: relative;
+	box-shadow: 3px 4px 4px #bababa;
+}
+
+.slptext {
+	width: 325px;
+	background-color: #fafafa;
+	position: relative;
+	margin: 13px auto 12px auto;
+	border-radius: 4px 4px 5px 5px;
+	padding: 44px;
+	font-family: 'Work Sans', arial, sans-serif;
+	font-size: 12px;
+	line-height: 150%;
+	color: #212121;
+	text-align: justify;
+}
+
+.slptext b {
+	background-color: #f4f4f4;
+	color: #3346ac;
+	font-weight: 501;
+	padding: 2px 2px 3px 2px;
+}
+
+.slptext hr {
+	background-color: #d2d2d2;
+	height: 1px;
+	border: none;
+	color: #d2d2d2;
+}
+
+.slptag {
+	text-align: center;
+	}
+
+.slpnotes {
+	text-align: center;
+	font-size: 11px;
+	color: #373737;
+}
+
+.slppicl {
+	float: left;
+	position: relative;
+	height: 34px;
+	width: 36px;
+	background-image:url('https://img.nickpic.host/5RFPYG.png');
+	top: -24px;
+  left: -10px;
+	z-index: 444;
+}
+
+.slppicr {
+	float: right;
+	position: relative;
+	height: 34px;
+	width: 36px;
+	background-image:url('https://img.nickpic.host/5RFLhA.png');
+	top: -24px;
+	right: -10px;
+	z-index: 445;
+	}
